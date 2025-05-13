@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-webapp",
+  "version": "1.0.0",
+  "description": "NodeJS App For Testing Azure Deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lakshya",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
